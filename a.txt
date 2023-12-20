@@ -3,3 +3,5 @@ This is new file
 This is new line
 
 This is third line
+
+ADDED IN GITHUB.COM
